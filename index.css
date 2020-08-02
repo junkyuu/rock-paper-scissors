@@ -1,0 +1,27 @@
+.game{
+    align-content: center;
+    text-align: center;
+}
+
+.option{
+    width: 100%;
+    margin: 10px auto;
+    display: flex;
+}
+
+.select{
+    width: 30%;
+    margin: 10px;
+    background:white;
+    border:none;
+    box-sizing: border-box;
+    flex: 1;
+}
+
+.enemy{
+    box-sizing: border-box;
+}
+
+.result{
+    margin: 15px auto;
+}
